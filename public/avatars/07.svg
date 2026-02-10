@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="hsl(138,75%,58%)"/>
+    <stop offset="100%" stop-color="hsl(168,75%,48%)"/>
+  </linearGradient>
+</defs>
+<rect width="256" height="256" rx="56" fill="url(#g)"/>
+<circle cx="128" cy="104" r="44" fill="rgba(255,255,255,0.22)"/>
+<path d="M56 212c10-42 46-64 72-64s62 22 72 64" fill="rgba(255,255,255,0.22)"/>
+<text x="50%" y="54%" text-anchor="middle" dominant-baseline="middle"
+  font-family="ui-sans-serif, system-ui, -apple-system" font-size="72" font-weight="700"
+  fill="rgba(255,255,255,0.92)">G</text>
+</svg>

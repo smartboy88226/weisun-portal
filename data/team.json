@@ -1,0 +1,98 @@
+[
+  {
+    "id": "e01",
+    "name": "Alex",
+    "avatar": "/avatars/01.svg",
+    "intro": "該快就快，該穩就穩。"
+  },
+  {
+    "id": "e02",
+    "name": "Bella",
+    "avatar": "/avatars/02.svg",
+    "intro": "先把基礎打穩，才談加速。"
+  },
+  {
+    "id": "e03",
+    "name": "Chris",
+    "avatar": "/avatars/03.svg",
+    "intro": "流程可以優化，人也要舒服。"
+  },
+  {
+    "id": "e04",
+    "name": "Daisy",
+    "avatar": "/avatars/04.svg",
+    "intro": "該快就快，該穩就穩。"
+  },
+  {
+    "id": "e05",
+    "name": "Evan",
+    "avatar": "/avatars/05.svg",
+    "intro": "先定義問題，再解決問題。"
+  },
+  {
+    "id": "e06",
+    "name": "Fiona",
+    "avatar": "/avatars/06.svg",
+    "intro": "流程可以優化，人也要舒服。"
+  },
+  {
+    "id": "e07",
+    "name": "Gary",
+    "avatar": "/avatars/07.svg",
+    "intro": "數據不說謊，但會沈默。"
+  },
+  {
+    "id": "e08",
+    "name": "Hana",
+    "avatar": "/avatars/08.svg",
+    "intro": "該快就快，該穩就穩。"
+  },
+  {
+    "id": "e09",
+    "name": "Ian",
+    "avatar": "/avatars/09.svg",
+    "intro": "先把基礎打穩，才談加速。"
+  },
+  {
+    "id": "e10",
+    "name": "Jade",
+    "avatar": "/avatars/10.svg",
+    "intro": "數據不說謊，但會沈默。"
+  },
+  {
+    "id": "e11",
+    "name": "Ken",
+    "avatar": "/avatars/11.svg",
+    "intro": "數據不說謊，但會沈默。"
+  },
+  {
+    "id": "e12",
+    "name": "Luna",
+    "avatar": "/avatars/12.svg",
+    "intro": "先定義問題，再解決問題。"
+  },
+  {
+    "id": "e13",
+    "name": "Max",
+    "avatar": "/avatars/13.svg",
+    "intro": "先定義問題，再解決問題。"
+  },
+  {
+    "id": "e14",
+    "name": "Nina",
+    "avatar": "/avatars/14.svg",
+    "intro": "先定義問題，再解決問題。"
+  },
+  {
+    "id": "e15",
+    "name": "Owen",
+    "avatar": "/avatars/15.svg",
+    "intro": "少一點猜，多一點驗證。"
+  },
+  {
+    "id": "e16",
+    "name": "Pia",
+    "avatar": "/avatars/16.svg",
+    "intro": "該快就快，該穩就穩。"
+  }
+]
